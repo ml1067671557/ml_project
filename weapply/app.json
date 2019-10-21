@@ -1,0 +1,50 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/ownner/ownner",
+        "pages/publish/publish",
+        "pages/login/login",
+        "pages/publish/jobpublish",
+        "pages/register/register",
+        "pages/ownner/ownnerreal",
+        "pages/ownner/detail",
+        "pages/ownner/joblogin",
+        "pages/ownner/jobpublish",
+        "pages/register/correct"
+    ],
+    "window": {
+        "backgroundColor": "#F6F6F6",
+        "backgroundTextStyle": "white",
+        "navigationBarBackgroundColor": "#000000",
+        "navigationBarTitleText": "Wafer Quick Start",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true
+    },
+    "tabBar": {
+        "color": "#000000",
+        "backgroundColor": "#5ED1CE",
+        "selectedColor": "#000000",
+        "borderStyle": "white",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "报名中心",
+                "selectedColor": "#F6F6F6",
+                "iconPath": "img/frist.png",
+                "selectedIconPath": "img/frist.png"
+            },
+            {
+                "pagePath": "pages/publish/publish",
+                "text": "商家入驻",
+                "iconPath": "img/second.png",
+                "selectedIconPath": "img/second.png"
+            },
+            {
+                "pagePath": "pages/ownner/ownner",
+                "text": "个人中心",
+                "iconPath": "img/third.png",
+                "selectedIconPath": "img/third.png"
+            }
+        ]
+    }
+}

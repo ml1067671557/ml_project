@@ -1,0 +1,8 @@
+{
+    "backgroundColor": "#5ED1CE",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5ED1CE",
+    "navigationBarTitleText": "修改密码",
+    "navigationBarTextStyle": "white",
+    "onPullDownRefresh": true
+}

@@ -1,0 +1,62 @@
+page {
+    background: #F6F6F6;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.number {
+    width: 60%;
+    margin-left: 15%;
+    height: 30px;
+    margin-top: -25px;
+    border: solid 0.01ch;
+}
+
+.img {
+    width: 30%;
+    height: 20%;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.f {
+    font-size: xx-large;
+    margin-top: 120px;
+    margin-left: 0px;
+    font-family: 幼圆;
+    position: absolute;
+}
+
+.pw {
+    width: 60%;
+    height: 30px;
+    margin-left: 15%;
+    margin-top: -25px;
+    border: solid 0.01ch;
+}
+
+.distance {
+    margin-top: 10px;
+}
+
+.cen {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.btn-area {
+    margin-top: 30px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+.login {
+    margin-top: 60px;
+}
+
+.contain {
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}

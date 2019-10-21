@@ -1,0 +1,56 @@
+.name {
+    margin: 30px 28%;
+}
+
+.img {
+    margin-top: -100px;
+    margin-left: 38px;
+}
+
+.move {
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}
+
+.detail {
+    margin-left: 33%;
+    color: white;
+    border-radius: 5px;
+    border: soild 0.1ch;
+    font-size: 28px;
+    box-shadow:;
+    box-shadow: 0px 0px 5px 5px;
+    width: 120px;
+    margin-top: 10px;
+}
+
+.content {
+    padding-left: 20px;
+    color: black;
+    width: 90%;
+    margin-top: 10px;
+}
+
+.title {
+    width: 100%;
+    color: white;
+    border-radius: 5px;
+}
+
+.register {
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 30%;
+}
+
+.contain {
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}
+
+.lookup {
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 30%;
+}

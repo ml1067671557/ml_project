@@ -1,0 +1,49 @@
+.contain {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}
+
+.img {
+    margin-top: -80px;
+    margin-left: 20px;
+}
+
+.own {
+    margin-top: 20px;
+    width: 45%;
+    height: 150px;
+    float: left;
+}
+
+.own2 {
+    margin-top: 50px;
+    width: 45%;
+    height: 150px;
+    float: left;
+}
+
+.owntext {
+    margin-top: 200px;
+    margin-left: -130px;
+    float: left;
+}
+
+.worktext {
+    margin-top: 200px;
+    margin-left: -130px;
+    float: left;
+}
+
+.name {
+    margin-top: -80px;
+    margin-left: 38%;
+}
+
+.dis {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(167,213,230);
+    padding-top: 10px;
+    padding-left: 100px;
+}

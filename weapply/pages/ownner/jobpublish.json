@@ -1,0 +1,8 @@
+{
+    "backgroundColor": "#5ED1CE",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5ED1CE",
+    "navigationBarTitleText": "信息处理",
+    "navigationBarTextStyle": "white",
+    "onPullDownRefresh": true
+}
