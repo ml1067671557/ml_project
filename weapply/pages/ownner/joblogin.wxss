@@ -1,0 +1,13 @@
+.title {
+    padding-left: 30%;
+}
+
+.textarea {
+    padding-left: 30%;
+}
+
+.contain {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}

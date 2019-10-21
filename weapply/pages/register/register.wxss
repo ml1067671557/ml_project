@@ -1,0 +1,30 @@
+.number {
+    width: 60%;
+    margin-left: 25%;
+    height: 30px;
+    margin-top: -25px;
+    border: solid 0.01ch;
+}
+
+.pw {
+    width: 60%;
+    height: 30px;
+    margin-left: 25%;
+    margin-top: -25px;
+    border: solid 0.01ch;
+}
+
+.btn-area {
+    margin-top: 50px;
+}
+
+.contain {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}
+
+.img {
+    margin-left: 10%;
+    margin-top: -50px;
+}

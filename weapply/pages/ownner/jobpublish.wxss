@@ -1,0 +1,31 @@
+.page {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(rgb(194,237,220),rgb(83,198,242));
+}
+
+.del {
+    width: 35%;
+    float: right;
+    margin-top: 5px;
+    height: 35px;
+    padding-bottom: 45px;
+}
+
+.textarea {
+    font-size: 20px;
+    font-weight: 100;
+    width: 100%;
+    height: 50px;
+    padding-left: 30%;
+}
+
+.b {
+    width: 100%;
+    height: 200px;
+    border: solid 0.01cm;
+}
+
+btnarea {
+    margin-top: 60px;
+}

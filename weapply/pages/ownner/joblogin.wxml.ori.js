@@ -1,0 +1,23 @@
+function(e,s,r,gg){
+var z=gz$gwx_4()
+var cXD=_n('view')
+_rz(z,cXD,'class',0,e,s,gg)
+var hYD=_n('view')
+_rz(z,hYD,'class',1,e,s,gg)
+var oZD=_n('text')
+_rz(z,oZD,'class',2,e,s,gg)
+var c1D=_oz(z,3,e,s,gg)
+_(oZD,c1D)
+_(hYD,oZD)
+_(cXD,hYD)
+var o2D=_n('text')
+var l3D=_oz(z,4,e,s,gg)
+_(o2D,l3D)
+_(cXD,o2D)
+var a4D=_n('text')
+var t5D=_oz(z,5,e,s,gg)
+_(a4D,t5D)
+_(cXD,a4D)
+_(r,cXD)
+return r
+}
